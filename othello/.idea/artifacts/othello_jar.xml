@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="othello:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/othello_jar</output-path>
+    <root id="archive" name="othello.jar">
+      <element id="module-output" name="othello" />
+      <element id="library" level="module" name="othplayer" module-name="othello" />
+      <element id="module-source" name="othello" />
+    </root>
+  </artifact>
+</component>
